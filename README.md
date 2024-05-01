@@ -164,6 +164,7 @@ This is a solution to the [Build a Celestial Bodies Database on freeCodeCamp](ht
     ALTER TABLE table_name ALTER COLUMN column_name SET NOT NULL;
     ```
 - Junction table: forming multiple “one-to-many” relationships;
+
 - Composite primary key: 
     ```
     ALTER TABLE table_name ADD PRIMARY KEY(column1, column2);
